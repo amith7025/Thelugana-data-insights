@@ -1,3 +1,7 @@
+# Telangana Data Insights Project
+
+The Telangana Data Insights Project is a comprehensive analysis of key datasets related to the state of Telangana, India. The project aims to provide valuable insights into various aspects, including district information, monthly dates, revenue generated from document registrations, vehicle sales data, and details about businesses established under the "Industrial Project Approval and Self-Certification System" (iPASS).
+
 This file contains all the meta information regarding the columns described in the CSV files. We have provided 5 CSV files:
 1. dim_districts
 2. dim_date
