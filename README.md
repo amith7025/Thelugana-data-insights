@@ -1,4 +1,7 @@
-# Project Title
+# Telangana Data Insights Project
+
+The Telangana Data Insights Project is a comprehensive analysis of key datasets related to the state of Telangana, India. The project aims to provide valuable insights into various aspects, including district information, monthly dates, revenue generated from document registrations, vehicle sales data, and details about businesses established under the "Industrial Project Approval and Self-Certification System" (iPASS).
+
 
 A brief description of your project.
 
@@ -86,4 +89,13 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 
 - Special thanks to [codebasics YouTube channel](https://www.youtube.com/user/codebasics) for inspiration and guidance.
 - Any additional acknowledgments or credits.
+
+  ## Usage
+
+To use this project for analysis:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/amith7025/your-repository.git
 
